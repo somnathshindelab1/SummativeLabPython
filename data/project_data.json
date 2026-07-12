@@ -1,0 +1,27 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Alex",
+      "email": "alex@example.com"
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "CLI Tool",
+      "description": "Build a management CLI",
+      "due_date": "",
+      "user_id": 1
+    }
+  ],
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Implement add-task",
+      "status": "todo",
+      "assigned_to": "",
+      "project_id": 1
+    }
+  ]
+}
